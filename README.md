@@ -10,5 +10,5 @@ This is Anubhav Gupta, a Data Science enthusiast, open to any kind of challenge 
 - 💬 Ask me about ***ML/DL/CV/NLP/Hadoop/Spark.***
 - 📫 How to reach me: Contact me over  ***[Linkedin](https://www.linkedin.com/in/anubhav-gupta-578998192)***
 - 😄 Pronouns: Up to you.
-- ⚡ Fun fact: I have an *addiction to Data Science.
+- ⚡ Fun fact: I have an *addiction to Data Science.*
 
