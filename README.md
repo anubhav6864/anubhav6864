@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Anubhav Gupta, a Data Science enthusiast, open to any kind of challenge in the same..
+>This is ***Anubhav Gupta, a Data Science enthusiast***, open to any kind of challenge in the same..
 
 
 - 🔭 I’m currently working as **Computer Vision Intern.**
