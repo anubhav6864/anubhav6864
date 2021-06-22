@@ -2,7 +2,7 @@
 >This is ***Anubhav Gupta, a Data Science enthusiast***, open to any kind of challenge in the same..
 
 
-- 🔭 I’m currently working as **Computer Vision Intern.**
+- 🔭 I’m currently working as **Data Analyst.**
 - 🌱 I’m currently learning **Advance DL/CV/NLP.**
 - 👯 I’m looking to collaborate on some ***Data Science related stuff for sure.***
 - 🤔 I’m looking for help with **Deployment** part of the NLP/CV models.
