@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as **Data Scientist.**
-- 🌱 I’m enjoy working on **Advance DL/CV/NLP.**
+- 🌱 I enjoy working on **Advance DL/CV/NLP.**
 - 👯 I’m looking to collaborate on some ***Data Science related stuff for sure.***
 - 🤔 I’m currently expoloring deep into **Devops**.
 - 💬 Ask me about ***ML/DL/CV/NLP/Hadoop/Spark.***
